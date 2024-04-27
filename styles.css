@@ -1,0 +1,75 @@
+body{
+    height: 100%;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: rgb(14, 13, 13);
+    
+}
+
+.tag {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+.home {
+    
+    border-radius: 10px;
+}
+
+.search {
+    border-radius: 18px;
+}
+.button {
+  
+    border-radius: 10px;
+}
+.voice {
+    border-radius: 18px;
+}
+.pic {
+    border-radius: 18px;
+}
+p {
+    color: gray;
+}
+
+
+
+.mynav{
+    color: #fff;
+}
+
+.mynav li a {
+    color: #fff;
+    text-decoration: none;
+    width: 100%;
+    display: block;
+    border-radius: 5px;
+    padding: 8px 5px;
+}
+
+
+
+.mynav li a:hover{
+    background: rgba(255,255,255,0.2);
+}
+
+.mynav li a i{
+    width: 25px;
+    text-align: center;
+}
+
+.click{
+    background: rgba(255,255,255,0.2);
+    height: 40px;
+    border-radius: 5px;
+}
+.bottom {
+
+    padding-left: 10px;
+    padding-right: 20px;
+}
+
+
+.color {
+    background-color: rgb(68, 67, 67);   
+}
